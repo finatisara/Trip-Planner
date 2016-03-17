@@ -1,0 +1,4 @@
+LidkÃ¶ping 270 350
+GÃ¶teborg 100 100
+Stockholm 900 600
+GÃ¶tene 320 370
